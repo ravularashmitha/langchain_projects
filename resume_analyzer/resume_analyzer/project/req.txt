@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain_google_genai
+PyPDF2
+dotenv
+pymupdf
